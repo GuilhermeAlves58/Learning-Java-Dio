@@ -9,7 +9,7 @@ public class factorial {
         int multiplier = 1;
 
         for(int i = factorial; i >= 1; i--){
-            multiplier = multiplier* i;
+            multiplier = multiplier * i;
         }
         System.out.println(multiplier);
     }
