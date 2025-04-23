@@ -1,4 +1,4 @@
-package problem_set.Collections;
+package problem_set.Collections.stream;
 
 import java.util.*;
 import java.util.function.*;
